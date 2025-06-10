@@ -20,7 +20,7 @@ app.use(cors({
     'http://localhost:3000',
     'http://localhost:5173',
     'https://doctors-appointment-web-app-sandy.vercel.app',  //for user pancel
-    'doctors-appointment-web-app-43k7.vercel.app',// for admin panel
+    'https://doctors-appointment-web-app-43k7.vercel.app',// for admin panel
   ],
   credentials: true,
   
